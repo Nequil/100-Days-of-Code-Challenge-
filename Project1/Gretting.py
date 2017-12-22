@@ -1,4 +1,4 @@
-_author_='Dev'
+_author_ = 'Dev'
 # # greeting = "Hello"
 # # name = input ("please enter your name ")
 # # print(greeting + ' '+ name)
@@ -10,8 +10,7 @@ _author_='Dev'
 # print(tabbedString)
 
 print('The pet shop owner said "No, no \'e\'s uh,... he\s resting"')
-print ("the pet shop owner said \"No, no, 'e's uh, ...he's resting\"")
-
+print("the pet shop owner said \"No, no, 'e's uh, ...he's resting\"")
 
 
 anotherSplitString = """this string has been
